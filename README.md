@@ -4,18 +4,19 @@ Small projects in SMILE
 ### 1. Creating quality questions from an article
 #### Instruction
 1. Install dependencies with the following commands
-'''
+```
 pip install -r requirements.txt
-'''
+```
 2. Create a file named 'credentials.json' with your Watson NLU credentials
+
 EX)
-'''
+```
 {
   "url": "https://gateway.watsonplatform.net/natural-language-understanding/api",
   "username": "your username hash",
   "password": "your password hash"
 }
-'''
+```
 #### Levels 1 & 2
 1. Summarize article
 2. Extract key phrases(words)
