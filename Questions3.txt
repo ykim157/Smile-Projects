@@ -50,6 +50,7 @@ What is the difference between International and Foreign?
 What is the difference between Government and Foreign?
 What is the difference between Countries and Foreign?
 What is the difference between Overseas and Foreign?
+What is the difference between Foreigners and Foreign?
 What is the difference between Facebook and Twitter?
 What is the difference between Google and Twitter?
 What is the difference between Instagram and Twitter?
@@ -60,3 +61,4 @@ What is the difference between Articles and News?
 What is the difference between Meeting and Conference?
 What is the difference between Seminar and Conference?
 What is the difference between Symposium and Conference?
+What is the difference between Meetings and Conference?
